@@ -13,8 +13,6 @@ public class Customer
     private SettingsManager _settingsManager;
     private MenuManager _menuManager;
     private Notifications _notifications;
-    
-    private float distanceForPayment;
 
     public Ped? customer;
     private Ped? droppedOffCustomer;

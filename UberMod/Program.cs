@@ -177,8 +177,8 @@ public class UberMod : Script
         var Z = World.GetGroundHeight(new Vector2(X, Y));
         var H = Game.Player.Character.Heading;
 
-        _notifications.SubtitleNotification(
-            $"X:{X:F2}, Y:{Y:F2}, Z:{T:F2}, GHZ:{Z:F2},   {H:F2}", 0, true);
+        //_notifications.SubtitleNotification(
+        //    $"X:{X:F2}, Y:{Y:F2}, Z:{T:F2}, GHZ:{Z:F2},   {H:F2}", 0, true);
 
         //if (playerVehicle != null) { _notifications.SubtitleNotification($"{playerVehicle.Speed}", 0, true); }
 

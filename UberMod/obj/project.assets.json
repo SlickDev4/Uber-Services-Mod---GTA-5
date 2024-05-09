@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\UberMod.csproj",
+      "projectUniqueName": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\UberMod\\UberMod.csproj",
       "projectName": "UberMod",
-      "projectPath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\UberMod.csproj",
+      "projectPath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\UberMod\\UberMod.csproj",
       "packagesPath": "C:\\Users\\35988\\.nuget\\packages\\",
-      "outputPath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\obj\\",
+      "outputPath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\UberMod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\35988\\AppData\\Roaming\\NuGet\\NuGet.Config",

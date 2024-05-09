@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SwTGtZHImb6+j5FkozeaUJLocverWbEYGsghjSL3/th32V6aLDJFBCUdlqJ90gxhhIy0gRoZ3HXecIm+iXYOgQ==",
+  "dgSpecHash": "lDYgdOqNQuehph1W8Wrtwwp5TcolR7SZbbdleOgSN+/tf/M5tQMw/0N4sVJ+4VwTrh7x84jSPKq6iiwuwjJD/w==",
   "success": true,
-  "projectFilePath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\UberMod.csproj",
+  "projectFilePath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\UberMod\\UberMod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\35988\\.nuget\\packages\\scripthookvdotnet3\\3.6.0\\scripthookvdotnet3.3.6.0.nupkg.sha512"
   ],
