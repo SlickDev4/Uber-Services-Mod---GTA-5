@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UberMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76042ed91a75b5e6d5001c2598cdf9c0d99a4910")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ab352d53286c62ca2e534cf1ed16986736c2b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("UberMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UberMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
