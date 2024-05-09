@@ -1,0 +1,11 @@
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.csproj.AssemblyReference.cache
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.AssemblyInfoInputs.cache
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.AssemblyInfo.cs
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.csproj.CoreCompileInputs.cache
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\bin\x64\Debug\net481\UberMod.pdb
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\bin\x64\Debug\net481\ScriptHookVDotNet3.dll
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.csproj.Up2Date
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.pdb
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\bin\x64\Debug\net481\UberMod.dll
+C:\zMAIN\VS Code Projects\GTA 5 uber mod\UberMod\UberMod\obj\x64\Debug\net481\UberMod.dll

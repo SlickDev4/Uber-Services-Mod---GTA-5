@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UberMod/1.0.0": {
+        "dependencies": {
+          "ScriptHookVDotNet3": "3.6.0"
+        },
+        "runtime": {
+          "UberMod.dll": {}
+        }
+      },
+      "ScriptHookVDotNet3/3.6.0": {
+        "runtime": {
+          "lib/net48/ScriptHookVDotNet3.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UberMod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScriptHookVDotNet3/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YccOvaMnHtFsWuGaZoi2Q/HFj8yyjNBN3b18pvcYYF4JcbjZxR1+I319qaMxRsvW1+iCbBZareQaeq6OpUHotw==",
+      "path": "scripthookvdotnet3/3.6.0",
+      "hashPath": "scripthookvdotnet3.3.6.0.nupkg.sha512"
+    }
+  }
+}

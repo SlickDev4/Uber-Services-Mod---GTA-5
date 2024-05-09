@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net481</TargetFramework>
+	<UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<LangVersion>10.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ScriptHookVDotNet3" Version="3.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="iFruitAddon2">
+      <HintPath>bin\x64\Debug\net481\iFruitAddon2.dll</HintPath>
+    </Reference>
+    <Reference Include="NativeUI">
+      <HintPath>bin\x64\Debug\net481\NativeUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

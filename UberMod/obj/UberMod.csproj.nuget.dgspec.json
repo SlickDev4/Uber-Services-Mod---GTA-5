@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\UberMod.csproj": {}
+  },
+  "projects": {
+    "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\UberMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\UberMod.csproj",
+        "projectName": "UberMod",
+        "projectPath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\UberMod.csproj",
+        "packagesPath": "C:\\Users\\35988\\.nuget\\packages\\",
+        "outputPath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\UberMod\\UberMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\35988\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "ScriptHookVDotNet3": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
