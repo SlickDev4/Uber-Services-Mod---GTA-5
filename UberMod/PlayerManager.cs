@@ -1,30 +1,25 @@
 ﻿using GTA;
-using GTA.Math;
-using GTA.Native;
-using NativeUI;
 
 public class PlayerManager
 {
-    private MenuManager _menuManager;
-    private Ped _player;
-
     private Ped? previousPlayerPed;
 
-    public PlayerManager(MenuManager menuManager)
+    public PlayerManager()
 	{
-        _menuManager = menuManager;
-        previousPlayerPed = Game.Player.Character;
-    }
+        // This class is handling the Player
 
-    private Ped GetPlayer()
-    {
-        return Game.Player.Character;
+        previousPlayerPed = Game.Player.Character;
     }
 
     public bool PlayerHasChanged()
     {
+        // This method is checking if the player has changed between Franklin/Michael/Trevor
+
         Ped currentPlayerPed = Game.Player.Character;
 
+        // Basically we are checking if the current player is the same as the player that the game loaded with
+        // If it is not the same, we assign the current player, we use this so we can abort the mission if the player changes
+        // during a ride
         if (currentPlayerPed != previousPlayerPed)
         {
             previousPlayerPed = currentPlayerPed;
@@ -34,42 +29,23 @@ public class PlayerManager
         return false;
     }
 
-	public string getPlayerStatus()
-	{
-        if (_menuManager.GetStatus() == "Available")
-        {
-            return "available";
-        }
-
-        return "unavailable";
-	}
-
-    public Vector3 getPlayerPosition()
-    {
-        return GetPlayer().Position;
-    }
-
-    public Vehicle GetPlayerVehicle()
-    {
-        return GetPlayer().CurrentVehicle;
-    }
-
     public void IncreaseMoney(int amount)
     {
+        // This method is simply increasing the player's money by the given amount
+
         Game.Player.Money += amount;
     }
 
     public void DisableVehicleControls()
     {
+        // This method is disabling 3 controls
+        // - Player can't accelerate with the vehicle
+        // - Player can't go backwards/brake with the vehicle
+        // - Player can't exit the vehicle
+        // This is used while the customer is entering or leaving the vehicle on the pickup/drop off points
+
         Game.DisableControlThisFrame(GTA.Control.VehicleAccelerate);
         Game.DisableControlThisFrame(GTA.Control.VehicleBrake);
         Game.DisableControlThisFrame(GTA.Control.VehicleExit);
-    }
-
-    public void EnableVehicleControls()
-    {
-        Game.EnableControlThisFrame(GTA.Control.VehicleAccelerate);
-        Game.EnableControlThisFrame(GTA.Control.VehicleBrake);
-        Game.EnableControlThisFrame(GTA.Control.VehicleExit);
     }
 }

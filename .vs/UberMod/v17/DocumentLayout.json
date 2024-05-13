@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37FAE4FC-9716-4038-9216-799A955FE2D3}|UberMod\\UberMod.csproj|c:\\zmain\\vs code projects\\gta 5 uber mod\\uber-services-mod---gta-5\\ubermod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37FAE4FC-9716-4038-9216-799A955FE2D3}|UberMod\\UberMod.csproj|C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\ubermod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37FAE4FC-9716-4038-9216-799A955FE2D3}|UberMod\\UberMod.csproj|solutionrelative:ubermod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37FAE4FC-9716-4038-9216-799A955FE2D3}|UberMod\\UberMod.csproj|c:\\zmain\\vs code projects\\gta 5 uber mod\\uber-services-mod---gta-5\\ubermod\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37FAE4FC-9716-4038-9216-799A955FE2D3}|UberMod\\UberMod.csproj|solutionrelative:ubermod\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\UberMod\\Customer.cs",
-              "RelativeDocumentMoniker": "UberMod\\Customer.cs",
-              "ToolTip": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\UberMod\\Customer.cs",
-              "RelativeToolTip": "UberMod\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:22:23.771Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "UberMod\\Program.cs",
               "ToolTip": "C:\\zMAIN\\VS Code Projects\\GTA 5 uber mod\\Uber-Services-Mod---GTA-5\\UberMod\\Program.cs",
               "RelativeToolTip": "UberMod\\Program.cs",
-              "ViewState": "AQIAAKsAAAAAAAAAAAA7wLgAAAAAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:25:00.485Z",
               "EditorCaption": ""
