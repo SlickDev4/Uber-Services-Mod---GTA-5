@@ -67,26 +67,6 @@ public class UberMod : Script
 
     private void OnTick(object sender, EventArgs e)
     {
-        // TODO:
-
-        // - color some texts
-        // - format numbers with , for thousands
-
-        // MONITOR:
-
-        // LATER
-        // - check how to get a license if providing the code to the mod
-
-        // NOTES
-        // - could not fix menu freeze <= 1 second on first open
-        // - could not fix disappearing route - workaround with update every second which causes it to blink on the map
-        // - when turning off the average rating, it will give you your current average rating every ride, which will impact
-        //      your tips, you can always change the current average rating in the .ini file,
-        //      it has to be 1-5 (eg. 1.5, 2.5, 3.7) or the script won't work properly
-        // - sometimes distance calculation bugs and it says that the distance is 60 miles and wants to give a 3k payment
-        //      it happens rarely and in this occasions, the distance is calculated with another method, which will 
-        //      pay 30-60 $ less but it's better than getting 3k for 2 miles..
-
         try
         {
             // Updating the phone
